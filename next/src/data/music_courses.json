@@ -1,0 +1,84 @@
+{
+    "courses":[
+        {
+            "id": 1,
+            "tittle":"gitar",
+             "slug": "gitar fun",
+             "description":"learn jhrejgjhregjjgtha gitar",
+             "price":99,
+             "instructor":"jhon",
+             "isFeatured":true,
+             "image":"../next/src/app/favicon.ico"
+        },
+        {
+            "id": 1,
+            "tittle":"gitar",
+             "slug": "gitar fun",
+             "description":"learn jhrejgjhregjjgtha gitar",
+             "price":99,
+             "instructor":"jhon",
+             "isFeatured":true,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 1,
+            "tittle":"gitar",
+             "slug": "gitar fun",
+             "description":"learn jhrejgjhregjjgtha gitar",
+             "price":99,
+             "instructor":"jhon",
+             "isFeatured":true,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 3,
+            "tittle":"sitar",
+             "slug": "sitar fun",
+             "description":"learn tha sitar",
+             "price":9.9,
+             "instructor":"bhavesh",
+             "isFeatured":false,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 2,
+            "tittle":"sitar",
+             "slug": "sitar fun",
+             "description":"learn tha sitar",
+             "price":9.9,
+             "instructor":"bhavesh",
+             "isFeatured":false,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 2,
+            "tittle":"sitar",
+             "slug": "sitar fun",
+             "description":"learn tha sitar",
+             "price":9.9,
+             "instructor":"bhavesh",
+             "isFeatured":false,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 3,
+            "tittle":"miitar",
+             "slug": "miitar fun",
+             "description":"learn tha siedwdetar",
+             "price":9.9,
+             "instructor":"bhavesh",
+             "isFeatured":true,
+             "image":"next/src/app/favicon.ico"
+        },
+        {
+            "id": 4,
+            "tittle":"vfvfrej",
+             "slug": "bhdhgwhiitar fun",
+             "description":"learncejvwvc tha sitar",
+             "price":9.9,
+             "instructor":"bhavesh",
+             "isFeatured":true,
+             "image":"next/src/app/favicon.ico"
+        }
+    ]
+}
